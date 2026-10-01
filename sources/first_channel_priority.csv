@@ -1,0 +1,148 @@
+domain,source_name,country,priority,launch_group,access_method,adapter_slug,global_importance,priority_reason
+portalcelulose.com.br,Celulose Online,Brazil,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+iba.org,IBÁ,Brazil,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+newspulpaper.com,O Papel,Brazil,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+suzano.com.br,Suzano — Investor Relations,Brazil,A,RESCUE_PROBE,BLOCKED,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+pulpandpapercanada.com,Pulp & Paper Canada,Canada,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+caixinglobal.com,Caixin Global,China,A,HTML_ADAPTER_PROBE,STATIC_HTML_METADATA,html_caixin_metadata,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+chinappi.org,China Paper Association,China,A,ALREADY_WORKING,HEADLESS,,B,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+cppmp.com,China Paper Magazine Network / 中国造纸杂志社,China,A,HTML_ADAPTER_PROBE,STATIC_HTML,html_cppmp_news,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+xinhuanet.com,Xinhua News Agency,China,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+cepi.org,Cepi,Europe,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+business-standard.com,Business Standard,India,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+ipmaindia.org,IPMA,India,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+paperindustryworld.com,Paper Industry World,India,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+papermart.in,Paper Mart,India,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+apki.net,APKI,Indonesia,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+mapma.com.my,Malaysia Paper Association,Malaysia,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+whatwood.ru,WhatWood,Russia,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+kommersant.ru,Коммерсантъ,Russia,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+lesprominform.ru,ЛесПромИнформ,Russia,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+rssexport.rbc.ru,РБК,Russia,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+ria.ru,РИА Новости — Экономика,Russia,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+thepaperstory.co.za,PAMSA — Paper Manufacturers Association of South Africa,South Africa,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+vppa.vn,Vietnam Pulp and Paper Association,Vietnam,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+fastmarkets.com,Fastmarkets Forest Products,World,A,HTML_ADAPTER_PROBE,STATIC_HTML,html_fastmarkets_forest_products,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+icfpa.org,ICFPA,World,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+paperfirst.info,PaperFIRST,World,A,HTML_ADAPTER_PROBE,STATIC_HTML,html_paperfirst_news,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+resourcewise.com,"ResourceWise — Pulp, Paper & Packaging",World,A,RSS_CONNECTED,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+ondemand.tappi.org,TAPPI,World,A,ALREADY_WORKING,RSS,,A,Опорный источник первого канала: высокая ценность для ежедневного отбора и/или обязательное покрытие ключевого рынка.
+ausfpa.com.au,Australian Forest Products Association,Australia,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ndb.int,New Development Bank,BRICS,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+bpp-bd.com,Bangladesh Pulp & Paper Magazine,Bangladesh,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+packagingsouthasia.com,Packaging South Asia,Bangladesh,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+abre.org.br,ABRE — Associação Brasileira da Embalagem,Brazil,B,RSS_CONNECTED,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+abtcp.org.br,ABTCP,Brazil,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ri.klabin.com.br,Klabin — Investor Relations,Brazil,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_klabin_ir,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+canadianbiomassmagazine.ca,Canadian Biomass — Pulp and Paper,Canada,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+cccabox.org,Canadian Corrugated and Containerboard Association,Canada,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+paptac.ca,PAPTAC,Canada,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+corma.cl,CORMA,Chile,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+app.com.cn,APP China,China,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_appchina_news,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+www1.hkexnews.hk,Lee & Man Paper,China,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_hkex_leeman_filings,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ndpaper.com,Nine Dragons Paper,China,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_ninedragons_announcements,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+acn.cu,Agencia Cubana de Noticias,Cuba,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+procarton.com,CEPI Cartonboard,Europe,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+eucepa.eu,EUCEPA,Europe,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+europeantissue.com,European Tissue Symposium,Europe,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+lesprom.com,Lesprom Network,Europe,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+copacel.fr,COPACEL,France,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ippta.co,IPPTA,India,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+b2b.economictimes.indiatimes.com,The Economic Times,India,B,RSS_CONNECTED,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+industriadellacarta.it,Industria della Carta,Italy,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+qazpack.kz,QazPack — Packaging Industry News,Kazakhstan,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+mysti.gov.my,MySTI,Malaysia,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+sustainabilitymea.com,Sustainable Packaging Middle East & Africa,Nigeria,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ppma.org.pk,Pakistan Paper Merchants Association,Pakistan,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+segezha-group.com,Segezha Group — Investor Relations,Russia,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_segezha_press,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+regulation.gov.ru,regulation.gov.ru,Russia,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+appm.ru,Архангельский ЦБК — пресс-центр,Russia,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_appm_press,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+ilimgroup.ru,Группа Илим — пресс-центр,Russia,B,RESCUE_PROBE,BLOCKED,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+balkangreenenergynews.com,Balkan Green Energy News,Serbia,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+businessday.co.za,Business Day,South Africa,B,RSS_CONNECTED,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+packagingsa.co.za,Packaging SA,South Africa,B,RSS_CONNECTED,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+thepaperstory.co.za,The Paper Story,South Africa,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+aspapel.es,ASPAPEL,Spain,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+srilankapackaging.com,Sri Lanka Institute of Packaging,Sri Lanka,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+cepi-eurokraft.org,CEPI Eurokraft,Sweden,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+matbaahaber.com,Matbaa Haber,Turkey,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+packagingdive.com,Packaging Dive,USA,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+pmmi.org,PMMI — Association for Packaging and Processing Technologies,USA/World,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_pmmi_news,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+bwpa.org.uk,BWPA,United Kingdom,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+gazeta.uz,Gazeta.uz — Economy,Uzbekistan,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+uzdaily.uz,UzDaily,Uzbekistan,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+conindustria.org,Conindustria,Venezuela,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+paper-vietnam.com,Paper Vietnam,Vietnam,B,RSS_CONNECTED,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+fsc.org,FSC International — News,World,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_fsc_newscentre,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+hawkinswright.com,Hawkins Wright — Pulp & Paper,World,B,HTML_ADAPTER_PROBE,STATIC_HTML_METADATA,html_hawkinswright_metadata,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+packaging-gateway.com,Packaging Gateway,World,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+resource-cns.cnsmedia.com,Packaging Insights,World,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+packagingnews.co.uk,Packaging News,World,B,ALREADY_WORKING,RSS,,B,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+papertechnologyinternational.com,Paper Technology International,World,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+resource-recycling.com,Resource Recycling,World,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+tissueworldmagazine.com,Tissue World Magazine,World,B,ALREADY_WORKING,RSS,,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+worldpackaging.org,World Packaging Organisation (WPO),World,B,HTML_ADAPTER_PROBE,STATIC_HTML,html_wpo_news,A,"Сильный второй эшелон: участвует в ranking, но не должен конкурировать с опорным ядром на равных."
+gov.br,MDIC Comex Stat,Brazil,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+gov.br,Receita Federal,Brazil,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+cpf.org.cn,China Packaging Federation / 中国包装联合会,China,C,RESCUE_PROBE,BLOCKED,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+stats.gov.cn,National Bureau of Statistics China,China,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+acotepacolombia.com,ACOTEPAC,Colombia,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+ecba-eg.com,"Egyptian Export Council for Printing, Packaging, Paper, Literary and Artistic Works",Egypt,C,HTML_ADAPTER_PROBE,STATIC_HTML,html_ecba_news,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+enterpriseam.com,EnterpriseAM Egypt,Egypt,C,RSS_CONNECTED,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+cppri.res.in,CPPRI,India,C,ALREADY_WORKING,HEADLESS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+iip-in.com,Indian Institute of Packaging,India,C,RESCUE_PROBE,BLOCKED,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+kemendag.go.id,Ministry of Trade Indonesia,Indonesia,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+en.irna.ir,IRNA,Iran,C,HTML_ADAPTER_PROBE,STATIC_HTML,html_irna_en,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+iranprint.com,Iran Print,Iran,C,HTML_ADAPTER_PROBE,STATIC_HTML,html_iranprint,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+mida.gov.my,MIDA — Paper Printing and Publishing,Malaysia,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+rise-pfi.no,RISE PFI,Norway,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+apccma.org,APCCMA,Pakistan,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+csir.co.za,CSIR,South Africa,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+sars.gov.za,SARS Trade Statistics,South Africa,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+thedtic.gov.za,the dtic,South Africa,C,ALREADY_WORKING,RSS,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+dubaichambers.com,"Dubai Chamber — Paper, Tissue & Stationery Business Group",UAE,C,HTML_ADAPTER_PROBE,STATIC_HTML,html_dubai_chambers_groups,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+thenationalnews.com,The National — Business,UAE,C,HTML_ADAPTER_PROBE,STATIC_HTML,html_thenational_business,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+ft.com,Financial Times,United Kingdom,C,HTML_ADAPTER_PROBE,STATIC_HTML_METADATA,html_ft_metadata,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+vir.com.vn,Vietnam Investment Review,Vietnam,C,RESCUE_PROBE,BLOCKED,,B,Дополнительный сигнал: рассматривать при сильном отраслевом событии.
+wood-kplus.at,Wood K plus,Austria,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+aztu.edu.az,Azerbaijan Technical University — News,Azerbaijan,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+uob.edu.bh,University of Bahrain — Research,Bahrain,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+bellesbumprom.by,Bellesbumprom,Belarus,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+abt.gob.bo,ABT Bolivia,Bolivia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ine.gob.bo,INE Bolivia,Bolivia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+mma.gob.cl,Ministry of Environment Chile,Chile,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+cnppri.com,China National Pulp and Paper Research Institute,China,A,ALREADY_WORKING,RSS,,A,"Переоценено вручную: по факту единственный источник, реально дающий релевантные новости про бумагу по Китаю — остальные китайские A-источники (Caixin, chinappi, Xinhua) либо не работают технически, либо дают нерелевантный контент. См. README/переписку."
+english.customs.gov.cn,General Administration of Customs China,China,NO,HTML_ADAPTER_PROBE,STATIC_HTML,html_gacc_statistics,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+uh.cu,University of Havana,Cuba,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+capmas.gov.eg:8080,CAPMAS,Egypt,NO,ALREADY_WORKING,API,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ecc.gov.et,Ethiopian Customs Commission,Ethiopia,NO,ALREADY_WORKING,HEADLESS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+efd.gov.et,Ethiopian Forestry Development,Ethiopia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ess.gov.et,Ethiopian Statistical Service,Ethiopia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+tilastot.tulli.fi,Finnish Customs Statistics,Finland,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+brin.go.id,BRIN,Indonesia,NO,ALREADY_WORKING,HEADLESS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ibe.cnr.it,CNR IBE,Italy,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+isprambiente.gov.it,ISPRA,Italy,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+kgd.gov.kz,State Revenue Committee Kazakhstan,Kazakhstan,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+frim.gov.my,Forest Research Institute Malaysia,Malaysia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+una.edu.ni,Universidad Nacional Agraria,Nicaragua,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+pbs.gov.pk,Pakistan Bureau of Statistics,Pakistan,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+lit.lukasiewicz.gov.pl,Łukasiewicz – Łódź Institute of Technology,Poland,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+rosstat.gov.ru,Росстат,Russia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+vshte.ru,СПбГУПТД — ВШТЭ,Russia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+mc.gov.sa,Ministry of Commerce Saudi Arabia,Saudi Arabia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+sfb.bg.ac.rs,University of Belgrade Faculty of Forestry,Serbia,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+customs.gov.lk,Sri Lanka Customs,Sri Lanka,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+scb.se,Statistics Sweden — Trade in goods,Sweden,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+3ptech.sc.chula.ac.th,Chulalongkorn University — Pulp Paper & Packaging Technology,Thailand,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+fcsc.gov.ae,Federal Competitiveness and Statistics Centre,UAE,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+web.fpinnovations.ca,FPInnovations,USA,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ura.go.ug,Uganda Revenue Authority,Uganda,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+forestresearch.gov.uk,Forest Research,United Kingdom,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+gov.uk,HMRC Customs,United Kingdom,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+impo.com.uy,IMPO Legal Database,Uruguay,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+stat.uz,Statistics Agency Uzbekistan,Uzbekistan,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+ula.ve,Universidad de Los Andes — Forestry,Venezuela,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+scls.hust.edu.vn,Hanoi University of Science and Technology — Paper and Packaging Technology Group,Vietnam,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+numeraanalytics.com,Numera Analytics — Forest Products,World,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+forestry.co.zw,Forestry Commission Zimbabwe,Zimbabwe,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."
+zimstat.co.zw,ZIMSTAT,Zimbabwe,NO,ALREADY_WORKING,RSS,,B,"Собирать/хранить при наличии подключения, но не подавать в ranking первого канала."

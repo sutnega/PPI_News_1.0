@@ -1,0 +1,903 @@
+[
+  {
+    "source_id": "SRC-0031",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Pulp & Paper Canada",
+    "rss_url": "https://www.pulpandpapercanada.com/feed/",
+    "priority": "B",
+    "discovered_from": "https://www.pulpandpapercanada.com/",
+    "feed_title": "Pulp and Paper Canada",
+    "entry_count": 10
+  },
+  {
+    "source_id": "SRC-0174",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Pulp & Paper Canada",
+    "rss_url": "https://www.pulpandpapercanada.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://www.pulpandpapercanada.com/",
+    "feed_title": "Pulp and Paper Canada",
+    "entry_count": 10
+  },
+  {
+    "source_id": "SRC-0175",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Paper Technology International",
+    "rss_url": "https://papertechnologyinternational.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://papertechnologyinternational.com/paper-industry-news/",
+    "feed_title": "Paper Technology International",
+    "entry_count": 5
+  },
+  {
+    "source_id": "SRC-0176",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Tissue World Magazine",
+    "rss_url": "https://www.tissueworldmagazine.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://www.tissueworldmagazine.com/",
+    "feed_title": "Tissue World Magazine",
+    "entry_count": 40
+  },
+  {
+    "source_id": "SRC-0180",
+    "country": "Европа",
+    "source_type": "Trade media",
+    "org": "Lesprom Network",
+    "rss_url": "https://www.lesprom.com/rss/eng.xml",
+    "priority": "A",
+    "discovered_from": "https://www.lesprom.com/en/news/",
+    "feed_title": "Lesprom Network",
+    "entry_count": 50
+  },
+  {
+    "source_id": "SRC-0184",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Packaging Insights",
+    "rss_url": "https://resource-cns.cnsmedia.com/rss/pinews.xml",
+    "priority": "A",
+    "discovered_from": "https://www.packaginginsights.com/news.html",
+    "feed_title": "Packaging Insights",
+    "entry_count": 50
+  },
+  {
+    "source_id": "SRC-0186",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Packaging News",
+    "rss_url": "https://www.packagingnews.co.uk/feed",
+    "priority": "A",
+    "discovered_from": "https://www.packagingnews.co.uk/",
+    "feed_title": "Packaging News",
+    "entry_count": 10
+  },
+  {
+    "source_id": "SRC-0188",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Resource Recycling",
+    "rss_url": "https://resource-recycling.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://resource-recycling.com/",
+    "feed_title": "Resource Recycling",
+    "entry_count": 10
+  },
+  {
+    "source_id": "SRC-0316",
+    "country": "Италия",
+    "source_type": "Trade media",
+    "org": "Industria della Carta",
+    "rss_url": "https://www.industriadellacarta.it/feed/",
+    "priority": "A",
+    "discovered_from": "https://www.industriadellacarta.it/",
+    "feed_title": "Industria della Carta",
+    "entry_count": 10
+  },
+  {
+    "source_id": "SRC-0319",
+    "country": "Великобритания",
+    "source_type": "Trade media",
+    "org": "Paper Industry World UK / Paper Technology",
+    "rss_url": "https://papertechnologyinternational.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://www.papertechnologyinternational.com/",
+    "feed_title": "Paper Technology International",
+    "entry_count": 5
+  },
+  {
+    "source_id": "SRC-0322",
+    "country": "Канада",
+    "source_type": "Trade media",
+    "org": "Pulp & Paper Canada",
+    "rss_url": "https://www.pulpandpapercanada.com/feed/",
+    "priority": "A",
+    "discovered_from": "https://www.pulpandpapercanada.com/",
+    "feed_title": "Pulp and Paper Canada",
+    "entry_count": 10
+  },
+  {
+    "source_id": "XLSX-0001",
+    "country": "Европа",
+    "source_type": "Industry association",
+    "org": "Cepi",
+    "rss_url": "https://www.cepi.org/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0002",
+    "country": "Мир",
+    "source_type": "Industry federation",
+    "org": "ICFPA",
+    "rss_url": "https://www.icfpa.org/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0003",
+    "country": "Европа",
+    "source_type": "Industry association",
+    "org": "European Tissue Symposium",
+    "rss_url": "https://europeantissue.com/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0004",
+    "country": "Канада",
+    "source_type": "Industry association",
+    "org": "Canadian Corrugated and Containerboard Association",
+    "rss_url": "https://cccabox.org/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0005",
+    "country": "Канада",
+    "source_type": "Industry association",
+    "org": "PAPTAC",
+    "rss_url": "https://www.paptac.ca/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0006",
+    "country": "Колумбия",
+    "source_type": "Industry association",
+    "org": "ACOTEPAC",
+    "rss_url": "https://www.acotepacolombia.com/feed/",
+    "priority": "B",
+    "entry_count": 3,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0007",
+    "country": "Франция",
+    "source_type": "Industry association",
+    "org": "COPACEL",
+    "rss_url": "https://copacel.fr/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0008",
+    "country": "Европа",
+    "source_type": "Industry association",
+    "org": "EUCEPA",
+    "rss_url": "https://www.eucepa.eu/feed/",
+    "priority": "B",
+    "entry_count": 1,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0009",
+    "country": "Великобритания",
+    "source_type": "Industry association",
+    "org": "BWPA",
+    "rss_url": "https://www.bwpa.org.uk/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0010",
+    "country": "Индия",
+    "source_type": "Industry association",
+    "org": "IPPTA",
+    "rss_url": "https://ippta.co/feed/",
+    "priority": "B",
+    "entry_count": 5,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0011",
+    "country": "Норвегия",
+    "source_type": "Industry association",
+    "org": "RISE PFI",
+    "rss_url": "https://rise-pfi.no/en/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0012",
+    "country": "Пакистан",
+    "source_type": "Industry association",
+    "org": "APCCMA",
+    "rss_url": "https://apccma.org/feed/",
+    "priority": "B",
+    "entry_count": 3,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0013",
+    "country": "Испания",
+    "source_type": "Industry association",
+    "org": "ASPAPEL",
+    "rss_url": "https://www.aspapel.es/feed/",
+    "priority": "B",
+    "entry_count": 6,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0014",
+    "country": "Швеция",
+    "source_type": "Industry association",
+    "org": "CEPI Eurokraft",
+    "rss_url": "https://www.cepi-eurokraft.org/?feed=rss2",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0015",
+    "country": "Европа",
+    "source_type": "Industry association",
+    "org": "CEPI Cartonboard",
+    "rss_url": "https://www.procarton.com/feed/",
+    "priority": "B",
+    "entry_count": 12,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0018",
+    "country": "Мир",
+    "source_type": "Trade media",
+    "org": "Packaging Gateway",
+    "rss_url": "https://www.packaging-gateway.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0022",
+    "country": "Финляндия",
+    "source_type": "Customs authority",
+    "org": "Finnish Customs Statistics",
+    "rss_url": "https://tilastot.tulli.fi/en/frontpage/-/asset_publisher/eUq2JtfuTIMi/rss",
+    "priority": "A",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0023",
+    "country": "Швеция",
+    "source_type": "Statistics",
+    "org": "Statistics Sweden — Trade in goods",
+    "rss_url": "https://www.scb.se/feed/statistiknyheter",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0024",
+    "country": "Австрия",
+    "source_type": "Research institute",
+    "org": "Wood K plus",
+    "rss_url": "https://wood-kplus.at/en/feed/",
+    "priority": "B",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0025",
+    "country": "Италия",
+    "source_type": "Environmental regulator / research",
+    "org": "ISPRA",
+    "rss_url": "https://www.isprambiente.gov.it/en/news/index/RSS",
+    "priority": "A",
+    "entry_count": 15,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0026",
+    "country": "Италия",
+    "source_type": "Research institute",
+    "org": "CNR IBE",
+    "rss_url": "https://www.ibe.cnr.it/en/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0027",
+    "country": "Великобритания",
+    "source_type": "Customs authority",
+    "org": "HMRC Customs",
+    "rss_url": "https://www.gov.uk/government/organisations/hm-revenue-customs.atom",
+    "priority": "A",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0028",
+    "country": "Великобритания",
+    "source_type": "Research institute",
+    "org": "Forest Research",
+    "rss_url": "https://www.forestresearch.gov.uk/news/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0029",
+    "country": "Чили",
+    "source_type": "Environmental regulator",
+    "org": "Ministry of Environment Chile",
+    "rss_url": "https://mma.gob.cl/feed/",
+    "priority": "A",
+    "entry_count": 24,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0030",
+    "country": "Польша",
+    "source_type": "Research institute",
+    "org": "Łukasiewicz – Łódź Institute of Technology",
+    "rss_url": "https://lit.lukasiewicz.gov.pl/en/feed/",
+    "priority": "B",
+    "entry_count": 8,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0031",
+    "country": "Уругвай",
+    "source_type": "Legal database",
+    "org": "IMPO Legal Database",
+    "rss_url": "https://www.impo.com.uy/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0032",
+    "country": "Россия",
+    "source_type": "Trade media",
+    "org": "WhatWood",
+    "rss_url": "https://whatwood.ru/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0033",
+    "country": "Индия",
+    "source_type": "Trade media",
+    "org": "Paper Mart",
+    "rss_url": "https://papermart.in/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0034",
+    "country": "Индия",
+    "source_type": "Trade media",
+    "org": "Paper Industry World",
+    "rss_url": "https://www.paperindustryworld.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0035",
+    "country": "ЮАР",
+    "source_type": "Trade media",
+    "org": "The Paper Story",
+    "rss_url": "https://thepaperstory.co.za/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0038",
+    "country": "Россия",
+    "source_type": "University / research",
+    "org": "СПбГУПТД — ВШТЭ",
+    "rss_url": "https://vshte.ru/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0039",
+    "country": "Индия",
+    "source_type": "Industry association",
+    "org": "IPMA",
+    "rss_url": "https://ipmaindia.org/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0040",
+    "country": "ЮАР",
+    "source_type": "Customs authority",
+    "org": "SARS Trade Statistics",
+    "rss_url": "https://www.sars.gov.za/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0041",
+    "country": "ЮАР",
+    "source_type": "Ministry",
+    "org": "the dtic",
+    "rss_url": "https://www.thedtic.gov.za/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0042",
+    "country": "Эфиопия",
+    "source_type": "Research / authority",
+    "org": "Ethiopian Forestry Development",
+    "rss_url": "https://www.efd.gov.et/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0043",
+    "country": "Индонезия",
+    "source_type": "Ministry",
+    "org": "Ministry of Trade Indonesia",
+    "rss_url": "https://www.kemendag.go.id/rss.xml",
+    "priority": "A",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0044",
+    "country": "Бразилия",
+    "source_type": "Technical association",
+    "org": "ABTCP",
+    "rss_url": "https://www.abtcp.org.br/feed/rss2",
+    "priority": "A",
+    "entry_count": 3,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0045",
+    "country": "Вьетнам",
+    "source_type": "University / research",
+    "org": "Hanoi University of Science and Technology — Paper and Packaging Technology Group",
+    "rss_url": "https://scls.hust.edu.vn/en/faculty-center/rss/department-of-chemical-engineering/",
+    "priority": "A",
+    "entry_count": 11,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0046",
+    "country": "Таиланд",
+    "source_type": "University / research",
+    "org": "Chulalongkorn University — Pulp Paper & Packaging Technology",
+    "rss_url": "https://www.3ptech.sc.chula.ac.th/feed/",
+    "priority": "A",
+    "entry_count": 2,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0047",
+    "country": "Малайзия",
+    "source_type": "Industry association",
+    "org": "Malaysia Paper Association",
+    "rss_url": "https://www.mapma.com.my/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0048",
+    "country": "Малайзия",
+    "source_type": "Investment authority",
+    "org": "MIDA — Paper Printing and Publishing",
+    "rss_url": "https://www.mida.gov.my/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0049",
+    "country": "Малайзия",
+    "source_type": "Innovation platform",
+    "org": "MySTI",
+    "rss_url": "https://www.mysti.gov.my/en/success-stories?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 5,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0050",
+    "country": "Беларусь",
+    "source_type": "Industry authority",
+    "org": "Bellesbumprom",
+    "rss_url": "https://bellesbumprom.by/ru/?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 6,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0051",
+    "country": "Боливия",
+    "source_type": "Statistics",
+    "org": "INE Bolivia",
+    "rss_url": "https://www.ine.gob.bo/index.php/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0052",
+    "country": "Боливия",
+    "source_type": "Forestry authority",
+    "org": "ABT Bolivia",
+    "rss_url": "https://www.abt.gob.bo/index.php?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0053",
+    "country": "Казахстан",
+    "source_type": "Customs authority",
+    "org": "State Revenue Committee Kazakhstan",
+    "rss_url": "https://kgd.gov.kz/en/rss.xml",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0054",
+    "country": "Куба",
+    "source_type": "Business media",
+    "org": "Agencia Cubana de Noticias",
+    "rss_url": "https://www.acn.cu/?format=feed&amp;type=atom",
+    "priority": "A",
+    "entry_count": 4,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0055",
+    "country": "Куба",
+    "source_type": "University / research",
+    "org": "University of Havana",
+    "rss_url": "https://www.uh.cu/es/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0056",
+    "country": "Малайзия",
+    "source_type": "Research institute",
+    "org": "Forest Research Institute Malaysia",
+    "rss_url": "https://www.frim.gov.my/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0057",
+    "country": "Уганда",
+    "source_type": "Customs authority",
+    "org": "Uganda Revenue Authority",
+    "rss_url": "https://ura.go.ug/en/feed/",
+    "priority": "A",
+    "entry_count": 18,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0058",
+    "country": "Узбекистан",
+    "source_type": "Statistics",
+    "org": "Statistics Agency Uzbekistan",
+    "rss_url": "https://stat.uz/en/?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 7,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0059",
+    "country": "Узбекистан",
+    "source_type": "Business media",
+    "org": "UzDaily",
+    "rss_url": "https://www.uzdaily.uz/en/rss/",
+    "priority": "A",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0060",
+    "country": "Узбекистан",
+    "source_type": "Business media",
+    "org": "Gazeta.uz — Economy",
+    "rss_url": "https://www.gazeta.uz/en/rss/",
+    "priority": "A",
+    "entry_count": 20,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0061",
+    "country": "Вьетнам",
+    "source_type": "Industry association",
+    "org": "Vietnam Pulp and Paper Association",
+    "rss_url": "https://vppa.vn/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0062",
+    "country": "Мир",
+    "source_type": "Economic analytics",
+    "org": "Numera Analytics — Forest Products",
+    "rss_url": "https://numeraanalytics.com/feed/",
+    "priority": "B",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0063",
+    "country": "Турция",
+    "source_type": "Industry media",
+    "org": "Matbaa Haber",
+    "rss_url": "https://www.matbaahaber.com/feed/",
+    "priority": "A",
+    "entry_count": 15,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0064",
+    "country": "Азербайджан",
+    "source_type": "University / research",
+    "org": "Azerbaijan Technical University — News",
+    "rss_url": "https://www.aztu.edu.az/feed.xml",
+    "priority": "A",
+    "entry_count": 50,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0065",
+    "country": "Пакистан",
+    "source_type": "Industry association",
+    "org": "Pakistan Paper Merchants Association",
+    "rss_url": "https://ppma.org.pk/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0066",
+    "country": "Пакистан",
+    "source_type": "Statistics",
+    "org": "Pakistan Bureau of Statistics",
+    "rss_url": "https://www.pbs.gov.pk/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0067",
+    "country": "Бангладеш",
+    "source_type": "Industry media",
+    "org": "Bangladesh Pulp & Paper Magazine",
+    "rss_url": "https://bpp-bd.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0068",
+    "country": "Бахрейн",
+    "source_type": "University / research",
+    "org": "University of Bahrain — Research",
+    "rss_url": "https://www.uob.edu.bh/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0069",
+    "country": "Шри-Ланка",
+    "source_type": "Industry association",
+    "org": "Sri Lanka Institute of Packaging",
+    "rss_url": "https://srilankapackaging.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0070",
+    "country": "Шри-Ланка",
+    "source_type": "Customs authority",
+    "org": "Sri Lanka Customs",
+    "rss_url": "https://www.customs.gov.lk/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0071",
+    "country": "Сербия",
+    "source_type": "Industry media",
+    "org": "Balkan Green Energy News",
+    "rss_url": "https://balkangreenenergynews.com/feed/",
+    "priority": "A",
+    "entry_count": 8,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0072",
+    "country": "Сербия",
+    "source_type": "University / research",
+    "org": "University of Belgrade Faculty of Forestry",
+    "rss_url": "https://www.sfb.bg.ac.rs/en/feed/",
+    "priority": "A",
+    "entry_count": 5,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0073",
+    "country": "Венесуэла",
+    "source_type": "Industry association",
+    "org": "Conindustria",
+    "rss_url": "https://www.conindustria.org/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0074",
+    "country": "Венесуэла",
+    "source_type": "University / research",
+    "org": "Universidad de Los Andes — Forestry",
+    "rss_url": "http://www.ula.ve/?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 3,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0075",
+    "country": "Зимбабве",
+    "source_type": "Statistics",
+    "org": "ZIMSTAT",
+    "rss_url": "https://zimstat.co.zw/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0076",
+    "country": "Зимбабве",
+    "source_type": "Forestry authority",
+    "org": "Forestry Commission Zimbabwe",
+    "rss_url": "https://forestry.co.zw/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0077",
+    "country": "Никарагуа",
+    "source_type": "University / research",
+    "org": "Universidad Nacional Agraria",
+    "rss_url": "https://www.una.edu.ni/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0078",
+    "country": "Нигерия",
+    "source_type": "Industry media",
+    "org": "Sustainable Packaging Middle East & Africa",
+    "rss_url": "https://www.sustainabilitymea.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0079",
+    "country": "Бангладеш",
+    "source_type": "Industry media",
+    "org": "Packaging South Asia",
+    "rss_url": "https://packagingsouthasia.com/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0080",
+    "country": "Казахстан",
+    "source_type": "Industry media / events",
+    "org": "QazPack — Packaging Industry News",
+    "rss_url": "https://qazpack.kz/en/news?format=feed&amp;type=rss",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_REVIEW_REQUIRED"
+  },
+  {
+    "source_id": "XLSX-0081",
+    "country": "США",
+    "source_type": "Trade media",
+    "org": "Packaging Dive",
+    "rss_url": "https://www.packagingdive.com/feeds/news/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0082",
+    "country": "США",
+    "source_type": "Research institute",
+    "org": "FPInnovations",
+    "rss_url": "https://web.fpinnovations.ca/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0083",
+    "country": "Канада",
+    "source_type": "Trade media",
+    "org": "Canadian Biomass — Pulp and Paper",
+    "rss_url": "https://www.canadianbiomassmagazine.ca/feed/",
+    "priority": "B",
+    "entry_count": 32,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0084",
+    "country": "Чили",
+    "source_type": "Industry association",
+    "org": "CORMA",
+    "rss_url": "https://www.corma.cl/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  },
+  {
+    "source_id": "XLSX-0085",
+    "country": "Австралия",
+    "source_type": "Industry association",
+    "org": "Australian Forest Products Association",
+    "rss_url": "https://ausfpa.com.au/feed/",
+    "priority": "A",
+    "entry_count": 10,
+    "feed_status": "RSS_VALIDATED"
+  }
+]

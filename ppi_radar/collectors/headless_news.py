@@ -10,11 +10,15 @@
       published (ISO-строка или None), in_window (bool)}
   2. Результат сохраняется через ppi_radar.config, без захардкоженных путей.
 
-Требует: pip install playwright && playwright install chromium
+Требует: pip install playwright. Сам браузер Chromium ставится автоматически
+при первом использовании этого модуля (см. _ensure_chromium_installed) —
+руками выполнять `playwright install chromium` не нужно.
 """
 from __future__ import annotations
 
 import json
+import subprocess
+import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
@@ -26,6 +30,57 @@ from ..error_log import log_error
 from ..source_priority import get_priority
 
 OUTPUT_PATH = DATA_DIR / "headless_collected_raw.json"
+
+_chromium_checked = False  # один раз за процесс — не проверяем заново на каждый парсер
+
+
+def _ensure_chromium_installed() -> None:
+    """
+    Браузер Chromium для Playwright — отдельная загрузка (не ставится вместе
+    с `pip install playwright`). Раньше это нужно было делать руками
+    (`playwright install chromium`) один раз после установки зависимостей —
+    легко забыть, особенно после переноса проекта на новую машину.
+
+    Теперь проверяется и, если нужно, ставится автоматически при первом
+    реальном использовании headless-сборщика в рамках текущего процесса —
+    без дополнительных действий со стороны пользователя. Занимает заметное
+    время (скачивается сам браузер, обычно 100-150 МБ) только один раз —
+    дальше Playwright хранит его в своём кеше (`~/.cache/ms-playwright` на
+    Linux/macOS, `%LOCALAPPDATA%\\ms-playwright` на Windows) и повторно не
+    перекачивает.
+    """
+    global _chromium_checked
+    if _chromium_checked:
+        return
+    _chromium_checked = True
+
+    from playwright.sync_api import sync_playwright
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            browser.close()
+        return  # уже установлен — ничего делать не нужно
+    except Exception as e:
+        if "Executable doesn't exist" not in str(e) and "playwright install" not in str(e).lower():
+            raise  # другая ошибка (не про отсутствие браузера) — пробрасываем как есть
+
+    print("Chromium для Playwright не найден — ставлю автоматически "
+          "(один раз, может занять пару минут)...")
+    try:
+        subprocess.run(
+            [sys.executable, "-m", "playwright", "install", "chromium"],
+            check=True, capture_output=True, text=True, timeout=600,
+        )
+        print("Chromium установлен.")
+    except subprocess.CalledProcessError as e:
+        msg = (f"Не удалось автоматически установить Chromium: {e.stderr[-500:] if e.stderr else e}. "
+               f"Установите вручную: `playwright install chromium` в терминале проекта.")
+        log_error("headless", "chromium_install_failed", msg)
+        raise RuntimeError(msg) from e
+    except subprocess.TimeoutExpired as e:
+        msg = "Установка Chromium не уложилась в 10 минут — проверьте интернет-соединение и повторите."
+        log_error("headless", "chromium_install_timeout", msg)
+        raise RuntimeError(msg) from e
 
 
 def _normalize(source_id, country, org, title, link, date_text=None, summary="", published_dt=None):
@@ -54,6 +109,7 @@ def _normalize(source_id, country, org, title, link, date_text=None, summary="",
 
 def _render_page(url, wait_ms=6000, extra_wait_selector=None, stabilize_selector=None,
                   stabilize_timeout_ms=15000, wait_until="domcontentloaded"):
+    _ensure_chromium_installed()
     from playwright.sync_api import sync_playwright  # локальный импорт: playwright опционален
 
     with sync_playwright() as p:
